@@ -1,5 +1,9 @@
 # Tanto
 
+<p align="center">
+  <img src="docs/images/tanto-icon.png" width="256" alt="Tanto icon">
+</p>
+
 A lightweight macOS menu bar app that runs JavaScript-powered text commands anywhere you type.
 
 Tanto lets you define small JavaScript functions and execute them directly from text fields in any application.
